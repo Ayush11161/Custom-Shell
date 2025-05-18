@@ -1,6 +1,6 @@
 # README.md - Documentation for MyCustomShell
 
-# Author: Ritesh Bamola and Team
+# Author: Ajay Pratap Singh Negi , Ajay Kumar Kothiyal , Ayush Rawat , Ritesh Bamola
 
 # MyCustomShell
 
